@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\bin\Debug\net6.0\TaskStringMEthod.exe
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\bin\Debug\net6.0\TaskStringMEthod.deps.json
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\bin\Debug\net6.0\TaskStringMEthod.runtimeconfig.json
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\bin\Debug\net6.0\TaskStringMEthod.dll
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\bin\Debug\net6.0\TaskStringMEthod.pdb
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.dll
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\refint\TaskStringMEthod.dll
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.pdb
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\TaskStringMEthod.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\TaskStringMEthod\TaskStringMEthod\obj\Debug\net6.0\ref\TaskStringMEthod.dll
